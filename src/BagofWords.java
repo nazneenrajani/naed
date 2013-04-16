@@ -33,7 +33,7 @@ public class BagofWords {
 				acc++;
 			System.out.println(acc);
 		}	
-		double precision = accuracy/wordVectors.length;
+		double precision = (accuracy*1.0)/devVectors.length;
 		System.out.println("Precision:    "+precision);
 		System.out.println("Precision:    "+accuracy);
 	}
@@ -57,16 +57,19 @@ private static svm_model svmTrain(Integer [][] wordVector) {
 	        }           
 	        prob.y[i] = features[0];
 	    }               
-
+	    double [] weights = new double[2];
+	    weights[0] = 0.75;
+	    weights[1] = 0.25;
 	    svm_parameter param = new svm_parameter();
 	    param.probability = 1;
 	    param.gamma = 0.5;
 	    param.nu = 0.5;
-	    param.C = 1;
+	    param.C = 0.001;
 	    param.svm_type = svm_parameter.C_SVC;
 	    param.kernel_type = svm_parameter.LINEAR;       
 	    param.cache_size = 20000;
-	    param.eps = 0.001;      
+	    param.eps = 0.0001;
+	    param.weight = weights;
 
 	    svm_model model = svm.svm_train(prob, param);
 
