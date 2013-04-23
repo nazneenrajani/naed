@@ -1,7 +1,10 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.util.ArrayList;
@@ -9,6 +12,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.StringTokenizer;
+
+import edu.stanford.nlp.trees.Tree;
 
 
 public class createVector {
@@ -92,7 +97,20 @@ public class createVector {
 		     }
 		}
 		PrintStream ps;
+		File file = new File(output_file);
+		FileWriter fw = new FileWriter(file.getAbsoluteFile());
+		BufferedWriter bw = new BufferedWriter(fw);
 		try {
+				bw.write(wVectors.length+" "+wVectors[0].length);
+				bw.write("\n");
+				for(int i=0;i<wVectors.length;i++){
+					for(int j=0;j<wVectors[0].length;j++){
+					bw.write(wVectors[i][j].toString());
+					bw.write(" ");
+				}
+			bw.write("\n");
+	}
+		/*
 		ps = new PrintStream(new FileOutputStream(output_file));
 		ps.println(wVectors.length+" "+wVectors[0].length);
 		for(int i=0;i<wVectors.length;i++){
@@ -102,7 +120,8 @@ public class createVector {
 			}
 			ps.println();
 		}
-		ps.close();
+		ps.close();*/
+		bw.close();
 	}
 	catch (FileNotFoundException e) {
 		e.printStackTrace();
