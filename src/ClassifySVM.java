@@ -24,11 +24,14 @@ public class ClassifySVM {
 		 * readVectors reads a 2d array from file as integers.
 		 */
 		wordVectors = readvectors("data/train_vector.txt");
+		//System.out.println(wordVectors[0].length);
+		//System.out.println(wordVectors);
 		//createVector.make("data/train.txt","data/label.txt","data/train_vector.txt");
 		//devVectors = readvectors("data/dev_vector.txt");
 		//createVector.make("data/dev.txt","data/label_dev.txt","data/dev_vector.txt");
 		testVectors = readvectors("data/test_vector.txt");
 		//createVector.make("data/test.txt","data/label_test.txt","data/test_vector.txt");
+		
 		Model _model;
 		
 		//int trainingSize = wordVectors
@@ -97,6 +100,7 @@ public class ClassifySVM {
 	}
 	
 private static Model svmTrain(Integer [][] wordVector) {
+
 	    Problem prob = new Problem();
 	    int dataCount = wordVector.length;
 	    prob.y = new double[dataCount];
@@ -107,6 +111,7 @@ private static Model svmTrain(Integer [][] wordVector) {
 	    Integer[] features;
 	    for (int i = 0; i < dataCount; i++){            
 	    	features = wordVector[i];
+	    	//System.out.println(wordVector[i][0]);
 	        prob.x[i] = new Feature[features.length-1];
 	        for (int j = 1; j < features.length; j++){
 	            FeatureNode node = new FeatureNode(j, features[j]);
@@ -114,6 +119,7 @@ private static Model svmTrain(Integer [][] wordVector) {
 	        }           
 	        prob.y[i] = features[0];
 	    }
+	    
 	    double [] weights = new double[2];
 	    weights[0] = 0.6;
 	    weights[1] = 0.4;
@@ -162,20 +168,16 @@ public static Integer[][] readvectors(String filename){
 		  Scanner file=new Scanner (new File(filename));
 		  String[] token = file.nextLine().split(" ");
 		  w_vector = new Integer[Integer.parseInt(token[0])][Integer.parseInt(token[1])];
-		  file.nextLine();
-		    while(file.hasNextLine()){
-		        String line= file.nextLine();
-		        temp = line.split(" ");
-		        //System.out.println(w_vector.length);
-		        //System.out.println(temp.length);
-		        for(int i = 0; i<w_vector.length; i++) {
-	                for (int j = 0; j<temp.length; j++) {    
+		   int i =0;
+		       while(file.hasNextLine()){
+		 		       String line= file.nextLine();
+		 		        temp = line.split(" ");
+	                for (int j = 0; j<temp.length; j++) {   
 	                    w_vector[i][j] = Integer.parseInt(temp[j]);
 	                }
+	                //System.out.println(w_vector[i][0]);	
+	                i=i+1;	                             
 	            }
-		        //vector=new Integer[lines.size()][];
-
-		    }
 		}
 		catch (IOException e){
 		    System.out.println("IOException");
