@@ -731,7 +731,11 @@ $ literally
 either#r#1 interchangeable#a#1 type#n#1 be#v#1 throw#v#15 away#r#7 after#r#1 use#v#1 or#n#1 type#n#6 can#n#5 be#v#1 use#v#1 again#r#1 breathing#n#1 bag#n#1 divided#a#1 two#n#1 fl#n#1 inspiration#n#6 expiration#n#3 respectively#r#1 fit#v#6 it#n#1 a#n#4 relief_valve#n#1 r#n#4 escape#n#1 excess#n#2 air#n#1 in#n#3 bag#n#1 A#n#4 saliva#n#1 trap#n#1 s#n#1 also#r#1
 
 @ in the fast lane
-$ both
+$ literally
+North#n#1 Yorkshire#n#1 Railway#n#2 Check#n#1 out#a#8 North#n#1 Yorkshire#n#1 summer#n#1 full#n#1 steam#n#1 ahead#a#1 an#n#1 unforgettable#a#1 journey#n#1 Click#n#3 here#n#2 find_out#v#1 more#a#2 Fast#a#1 Track#n#1 Get#v#1 in#n#1 fast_lane#n#1 Poorhouse#n#1 lane#n#2 a#n#1 visit#n#1 Fast#a#1 Track#n#1 There#n#1 no#a#1 such#a#1 thing#n#12 a#n#4 a#n#4 speeding_ticket#n#1 on#r#3
+
+@ in the fast lane
+$ figuratively
 North#n#1 Yorkshire#n#1 Railway#n#2 Check#n#1 out#a#8 North#n#1 Yorkshire#n#1 summer#n#1 full#n#1 steam#n#1 ahead#a#1 an#n#1 unforgettable#a#1 journey#n#1 Click#n#3 here#n#2 find_out#v#1 more#a#2 Fast#a#1 Track#n#1 Get#v#1 in#n#1 fast_lane#n#1 Poorhouse#n#1 lane#n#2 a#n#1 visit#n#1 Fast#a#1 Track#n#1 There#n#1 no#a#1 such#a#1 thing#n#12 a#n#4 a#n#4 speeding_ticket#n#1 on#r#3
 
 @ in the fast lane
