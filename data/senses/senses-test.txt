@@ -1559,7 +1559,11 @@ $ literally
 It#n#1 pretty#r#1 cool#a#4 laid-back#a#1 I#n#1 know#v#1 score#n#3 most#a#2 meeting#n#1 so#n#1 it#n#1 quite#r#3 a#n#1 exciting#a#1 me#n#1 as#n#2 know#v#1 up#a#1 it#n#1 moment#n#5 out_in#v#1 a#n#1 farcical#a#1 second#n#1 heat#n#7
 
 @ play it by ear
-$ both
+$ literally
+Distort#v#2 audio#n#4 will#n#3 a#n#1 sound#n#6 horrible#a#1 b#n#3 make#v#3 sound#v#2 really#r#1 crappy#a#1 Just#a#3 play_it_by_ear#v#1 sic#v#1 get_it#v#1 it#n#1 reasonably#r#1 clear#a#1 undistorted#a#1 Remember#v#2 it#n#1 FM#n#1 so#n#1 it#n#1 already#r#1 lost#a#1 about#r#4 fidelity#n#2 be#v#1 convert#v#2 so#n#1 do#n#2 expect#v#1
+
+@ play it by ear
+$ figurativelly
 Distort#v#2 audio#n#4 will#n#3 a#n#1 sound#n#6 horrible#a#1 b#n#3 make#v#3 sound#v#2 really#r#1 crappy#a#1 Just#a#3 play_it_by_ear#v#1 sic#v#1 get_it#v#1 it#n#1 reasonably#r#1 clear#a#1 undistorted#a#1 Remember#v#2 it#n#1 FM#n#1 so#n#1 it#n#1 already#r#1 lost#a#1 about#r#4 fidelity#n#2 be#v#1 convert#v#2 so#n#1 do#n#2 expect#v#1
 
 @ play it by ear

@@ -1187,7 +1187,11 @@ $ literally
 There#n#1 are#n#1 a#n#1 variety#n#5 way#n#11 in#n#1 can#n#5 be#v#1 A#n#1 text#n#1 description#n#1 can#n#5 be_given#v#1 on#r#3 same#a#2 page#n#1 or#n#1 link#v#1 image#n#3 or#n#1 page#n#1 ALT#n#1 text#n#1 image#n#3 then#r#2 be#v#1 Office#n#2 layout#n#2 see#v#24 description#n#1 below#r#1
 
 @ put food on the table
-$ both
+$ literally
+be#v#1 lifeline#n#4 southern#a#3 African#n#1 put#v#1 food#n#1 on#r#3 table#n#2 keep_going#v#2 hit#v#13 by#r#1 HIV#n#2 overwhelmingly#r#1 take#v#28 on#r#3 burden#n#1 care#v#4 young#a#1 old#a#2 sick#a#1 die#v#1
+
+@ put food on the table
+$ figuratively
 be#v#1 lifeline#n#4 southern#a#3 African#n#1 put#v#1 food#n#1 on#r#3 table#n#2 keep_going#v#2 hit#v#13 by#r#1 HIV#n#2 overwhelmingly#r#1 take#v#28 on#r#3 burden#n#1 care#v#4 young#a#1 old#a#2 sick#a#1 die#v#1
 
 @ put food on the table

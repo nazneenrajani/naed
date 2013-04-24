@@ -1331,7 +1331,11 @@ $ literally
 So#n#1 bike#n#2 past#a#1 at#n#1 about#r#7 120#a#1 Two#a#1 late#a#5 same#a#2 bike#n#2 at#n#1 70#n#1 in#n#1 fast_lane#n#1 So#n#1 I#n#1 have#v#2 slow_down#v#4
 
 @ play ball
-$ both
+$ literally
+Pitch#v#4 carry#v#13 all#a#1 quality#n#1 baseball#n#1 softball#n#2 low#a#2 on#r#3 net#n#3 get#v#1 ready#v#2 play#v#1 ball#n#1 Autumn#n#1 Gallery#n#6 Sterling#n#1 Silver#n#1 Jewelry#n#1 At#n#1 Autumn#n#1 Gallery#n#6 offer#n#2 fine#a#5 quality#n#1 jewelry#n#1 not#r#1 available#a#1 anywhere#r#1 in#n#3 world#n#1
+
+@ play ball
+$ figuratively
 Pitch#v#4 carry#v#13 all#a#1 quality#n#1 baseball#n#1 softball#n#2 low#a#2 on#r#3 net#n#3 get#v#1 ready#v#2 play#v#1 ball#n#1 Autumn#n#1 Gallery#n#6 Sterling#n#1 Silver#n#1 Jewelry#n#1 At#n#1 Autumn#n#1 Gallery#n#6 offer#n#2 fine#a#5 quality#n#1 jewelry#n#1 not#r#1 available#a#1 anywhere#r#1 in#n#3 world#n#1
 
 @ play ball
