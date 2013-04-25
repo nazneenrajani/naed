@@ -1,0 +1,519 @@
+clock#n#1 
+clock#n#1 
+clock#n#1 
+clock#n#1 
+clock#n#1 
+clock#n#1 
+clock#n#1 
+against_the_clock#r#1 
+all#a#1 over#n#1 map#n#2 
+all#a#1 over#n#1 map#n#2 
+all#a#1 over#n#1 map#n#2 
+all#a#1 over#n#1 map#n#2 
+all#a#1 over#n#1 map#n#2 
+all#r#1 over#n#1 map#n#2 
+all#a#1 over#n#1 map#n#2 
+all#a#1 over#n#1 map#n#2 
+all#a#1 over#n#1 map#n#2 
+back#n#5 wall#n#1 
+back#n#5 wall#n#1 
+back#n#5 wall#n#1 
+back#n#5 wall#n#1 
+back#n#5 wall#n#1 
+back#n#5 wall#n#1 
+back#n#1 wall#n#1 
+back#n#5 wall#n#1 
+back#n#9 wall#n#1 
+bite#v#1 bullet#n#1 
+bite#v#1 bullet#n#1 
+bite#v#1 bullet#n#1 
+bite#v#1 bullet#n#1 
+bite#v#1 bullet#n#1 
+bite#v#1 bullet#n#1 
+bite#v#1 bullet#n#1 
+bite#v#1 bullet#n#1 
+bite#v#1 bullet#n#1 
+bite#v#1 bullet#n#1 
+blood#n#1 in#n#3 water#n#2 
+blood#n#1 in#n#3 water#n#2 
+blood#n#1 in#n#3 water#n#2 
+blood#n#1 in#n#3 water#n#2 
+blood#n#1 in#n#3 water#n#2 
+blood#n#1 in#n#3 water#n#2 
+blood#n#1 in#n#3 water#n#2 
+blood#n#1 in#n#3 water#n#2 
+blood#n#1 in#n#3 water#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#v#14 a#n#5 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#v#14 a#n#4 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#n#1 a#n#6 fuse#n#2 
+blow#v#14 a#n#4 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#n#1 a#n#4 fuse#n#2 
+blow#n#1 a#n#1 fuse#n#2 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow_a_fuse#v#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+blow#v#14 a#n#4 gasket#n#1 
+blow#n#1 a#n#4 gasket#n#1 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#1 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#1 stone#n#3 
+carve#v#2 in#n#1 stone#n#3 
+carve#v#2 in#n#1 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#2 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#1 stone#n#3 
+carve#v#2 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#2 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#2 
+carve#v#1 in#n#1 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#2 in#n#3 stone#n#3 
+carve#v#2 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#2 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#2 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#1 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#2 stone#n#3 
+carve#v#2 in#n#3 stone#n#2 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#2 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#2 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#1 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#2 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#2 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#2 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#1 stone#n#3 
+carve#v#1 in#n#3 stone#n#2 
+carve#v#2 in#n#3 stone#n#2 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#3 stone#n#3 
+carve#v#1 in#n#1 stone#n#2 
+drop#n#3 off#v#1 radar#n#1 
+drop#n#2 off#r#1 radar#n#1 
+drop#n#2 off#r#1 radar#n#1 
+drop#n#2 off#v#1 radar#n#1 
+drop#n#2 off#r#1 radar#n#1 
+drop#v#20 off#r#1 radar#n#1 
+drop#n#2 off#r#1 radar#n#1 
+drop#v#1 off#v#1 radar#n#1 
+drop#v#1 off#v#1 radar#n#1 
+drop#v#1 off#r#1 radar#n#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#6 kitten#v#1 
+have#v#13 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+have#v#2 kitten#v#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#1 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+in#n#3 face#n#1 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#5 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#5 score#n#3 
+know#v#1 score#n#10 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#5 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#10 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#1 score#n#10 
+know#v#1 score#n#3 
+know#v#1 score#n#3 
+know#v#5 score#n#3 
+know#v#1 score#n#3 
+know_the_score#v#1 
+know_the_score#v#1 
+know_the_score#v#1 
+know_the_score#v#1 
+know_the_score#v#1 
+know_the_score#v#1 
+know_the_score#v#1 
+know_the_score#v#1 
+know_the_score#v#1 
+play_it_by_ear#v#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#n#9 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#2 ear#n#1 
+play#n#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#2 ear#n#1 
+play#v#1 it#n#1 by#r#2 ear#n#1 
+play#n#9 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#2 ear#n#1 
+play#n#9 it#n#1 by#r#1 ear#n#1 
+play#n#9 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#n#9 it#n#1 by#r#2 ear#n#1 
+play#n#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#2 ear#n#1 
+play#n#9 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#n#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#n#9 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#n#15 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#n#1 it#n#1 by#r#2 ear#n#1 
+play#v#1 it#n#1 by#r#2 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#2 ear#n#1 
+play#n#9 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#2 ear#n#1 
+play#n#4 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#2 ear#n#1 
+play#n#1 it#n#1 by#r#2 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+play#v#1 it#n#1 by#r#1 ear#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull#v#1 plug#n#1 
+pull_the_plug#v#1 
+pull_the_plug#v#1 
+pull_the_plug#v#1 
+pull_the_plug#v#1 
+pull_the_plug#v#1 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#n#1 trash#n#4 
+take#v#17 out#n#1 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#n#1 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#18 out#n#1 trash#n#4 
+take#v#17 out#n#1 trash#n#4 
+take#v#17 out#v#2 trash#n#4 
+take#v#17 out#n#1 trash#n#4 
+take#v#17 out#n#1 trash#n#4 
+take#v#18 out#n#1 trash#n#4 

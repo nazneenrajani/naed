@@ -1,0 +1,343 @@
+along#r#5 line#n#11 
+along#r#5 line#n#18 
+along#r#5 line#n#11 
+along#r#5 line#n#11 
+count#n#2 
+count#n#2 
+count#n#1 
+count#n#2 
+count#n#1 
+count#n#1 
+count#n#1 
+count#n#1 
+count#n#2 
+count#n#2 
+count#n#1 
+count#n#1 
+count#n#1 
+count#n#1 
+count#n#1 
+count#n#2 
+count#n#2 
+count#n#1 
+count#n#2 
+count#n#2 
+count#n#1 
+count#n#1 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#1 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#1 
+count#n#1 
+count#n#1 
+count#v#7 
+count#n#2 
+count#n#2 
+count#n#2 
+count#v#7 
+count#n#2 
+count#n#1 
+count#n#1 
+count#n#1 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#1 
+count#n#2 
+count#n#1 
+count#n#1 
+count#n#2 
+count#n#2 
+count#n#2 
+count#n#1 
+count#n#1 
+count#n#1 
+count#n#1 
+count#n#2 
+count#n#1 
+count#n#2 
+count#n#1 
+count#n#1 
+cut#v#1 it#n#1 close#a#1 
+cut#n#6 it#n#1 close#a#1 
+cut#n#6 it#n#1 close#a#1 
+cut#n#6 it#n#1 close#n#2 
+cut#n#6 it#n#1 close#n#2 
+get#v#1 bend#v#3 out#v#2 shape#n#8 
+get#v#1 bend#v#3 out#v#2 shape#v#2 
+get#v#1 bend#v#3 out#v#2 shape#n#8 
+get#v#1 bend#v#3 out#v#2 shape#n#8 
+get#v#1 bend#v#3 out#v#2 shape#n#8 
+get#v#1 bend#v#3 out#v#2 shape#n#3 
+get#v#1 bend#v#3 out#v#2 shape#n#8 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#1 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#1 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#1 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#11 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#1 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#1 hand#n#1 
+go#v#1 hand#n#1 in#n#1 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#1 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#1 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#1 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+go#v#1 hand#n#1 in#n#2 hand#n#1 
+go#v#1 hand#n#1 in#n#3 hand#n#1 
+make#v#3 cut#n#6 
+make#v#4 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#v#1 
+make#v#3 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#5 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#6 cut#n#6 
+make#v#3 cut#n#6 
+make#v#6 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#4 cut#v#1 
+make#v#3 cut#n#6 
+make#v#6 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+make#v#3 cut#v#1 
+make#v#3 cut#n#6 
+make#v#3 cut#n#6 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#1 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+on#r#3 same#a#2 page#n#1 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#1 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#1 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#1 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#1 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#1 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#1 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+put#v#1 food#n#2 on#r#3 table#n#2 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
+lay#v#1 it#n#1 on#r#3 thick#a#1 
