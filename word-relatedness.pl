@@ -27,6 +27,8 @@ my @vectors = (); # Array that contains vectors of each sample context
 
 open INFILE, "data/senses/senses-train.txt" or die $!;
 open FILE, "data/phrase-senses/phrases-train.txt" or die $!; # File that contains the phrase and the sense of the words.
+#open INFILE, "edaena.txt" or die $!;
+#open FILE, "edaena-phrases.txt" or die $!; # File that contains the phrase and the sense of the words.
 my @lines = <INFILE>;
 my @phrases = <FILE>; # Phrases or words from phrases with their sense.
 open OUT, ">data/vectors/train-vectors.txt" or die $!;
@@ -52,7 +54,8 @@ foreach (@lines) {
         my $sense = substr($_, 2, length($_));
         chomp($sense);
         if ($sense eq "literally") { $isLiterally = 1; }
-        else { $isLiterally = 0; }
+        else { 
+        $isLiterally = 0; }
     }
     elsif (length($_) > 1) # ignore blank lines
     {
@@ -206,7 +209,7 @@ sub computeRelatednessVector
     }
     # figurative = 1
     my $result = "";
-    if (isLiterally == 1) { $result = $result . "0"; }
+    if ($isLiterally == 1) { $result = $result . "0"; }
     else { $result = $result . "1"; }
     
     #print 
