@@ -24,16 +24,19 @@ my $totalContexts = 0;
 
 my @vectors = (); # Array that contains vectors of each sample context
 
-open INFILE, "edaena.txt" or die $!;
+
+open INFILE, "data/senses/senses-train.txt" or die $!;
+open FILE, "data/phrase-senses/phrases-train.txt" or die $!; # File that contains the phrase and the sense of the words.
 my @lines = <INFILE>;
+my @phrases = <FILE>; # Phrases or words from phrases with their sense.
+open OUT, ">data/vectors/train-vectors.txt" or die $!;
+
 
 my $phrase = "";
 my $isLiterally;
-
+my $count = 0;
 
 readDictionary(@lines); # Populate the dictionary of words present in the file.
-
-
 
 foreach (@lines) {
     my $first_char = substr($_, 0, 1);
@@ -71,7 +74,9 @@ foreach (@lines) {
             }
         }
 
-        getRelatednessVector(@context);
+        computeRelatednessVector(@context);
+        
+        $count = $count + 1;
         
      } # else
 }
@@ -119,7 +124,7 @@ sub readDictionary
             foreach (@words) 
             {
                 my @word = split(/#/, $_);
-                my $word = lc($word[0]);
+                my $word = lc($word[0]); # lower case
                 chomp($word);
                 if ($word ne "" and not (exists $dictionary{$word}) )
                 {
@@ -132,62 +137,102 @@ sub readDictionary
     }
 }
 
-
-
-
-sub getRelatednessVector
+# Receives as parameter the context words.
+sub computeRelatednessVector
 {
+    print "Computing vector...\n";
     my @phraseVectors = ();
-    my @arr = 0 x $totalWords;
-    my @phraseWords = split(/ /, $phrase);
+    my @phraseVector = (0) x $totalWords;
+    #my @wrelatedness = 0 x $totalWords;
+    
+    my $pSense = $phrases[count]; # Get the corresponding phrase sense from the read file.
+    my @phraseWords = split(/ /, $pSense);
+    
     my @context;
     my $totalVectors = @phraseWords;
     
-    
-    
     #print "Getting relatedness vector:\n";
     my @words = @_;
-
-    foreach (@words)
-    {
-        @word = split(/#/, $_);
-        push(@context, $word[0]);
-    }
-    #print @context;
-    #@hello = @context;
-    #@context = ['cake', 'eat', 'tea'];
-    my $phraseSense = "";
-    foreach (@phraseWords) {
-        my $pSense ="";
-        my $result = $wsd->disambiguate (target => $_,
-                          context => [@context]);
-        my $max = 0;
-       foreach my $key (keys %$result) {
-            my $r = $result->{$key};
-            if ($r > $max) {
-                $max = $r;
-                $pSense = $key;
+    $size = @phraseWords;
+    
+    foreach my $pw (@phraseWords) {
+        chomp($pw);
+        if ($pw ne "") {
+            my @wrelatedness = (0) x $totalWords; #initialize array with zeros.
+            
+            #print $pw . "\n";
+            foreach my $w (@words) {
+                if ($w ne "") {
+                my @word = split('#', $w);
+                my $length = @word;
+                if ($length == 3) {
+                    my $relatedness = getRelatedness($pw, $w);
+                    # write relatedness in array
+                    
+                    my $index = $dictionary{lc($word[0])};
+                    
+                    if ($wrelatedness[$index] != 0) {
+                        $wrelatedness[$index] = $relatedness / 2.0;
+                    }
+                    else { $wrelatedness[$index] = $relatedness; }
+                    }
+                }
+                
+            } # foreach
+            foreach my $v (@wrelatedness) {
+                #print $v . "\n";
             }
-           #print $key, ' : ', $result->{$key}, "\n";
-       }
-       $phraseSense = $phraseSense . $pSense . " ";
+            push(@phraseVectors, [@wrelatedness]);
+        } #if
+        
+    } # foreach
+
+    $s = @phraseVectors;
+    #print "$s\n";
+    
+    for $aref ( @phraseVectors ) {
+        my $i = 0;
+
+        #print "\t [ @$aref ],\n";
     }
+    # Add vectors:
     
-    chomp($phraseSense);
-    print($phraseSense);
+    for $aref ( @phraseVectors ) {
+        my $i = 0; # initialize index of the phrase vector
+        foreach my $v (@$aref) {
+            $phraseVector[$i] = $phraseVector[$i] + $v;
+            $i = $i + 1;
+        }
+    }
+    # figurative = 1
+    my $result = "";
+    if (isLiterally == 1) { $result = $result . "0"; }
+    else { $result = $result . "1"; }
     
-  
+    #print 
+    foreach my $p (@phraseVector) {
+        $result = $result . " " . $p;
+    }
+    #print "$result\n";
+    print "Done.\n";
+    print OUT "$result\n";
+    OUT->autoflush(1);
 
-
-    #print @words;
-    #print "\n";
-    #print "phrase:  $p\n";
-    #print @arr;
 }
 
 sub getRelatedness
 {
     
+    my $word1 = $_[0];
+    my $word2 = $_[1];
+    chomp($word1);
+    chomp($word2);
+    #print $word1 . " " . $word2 . "\n";
+    my $relatedness = $lesk->getRelatedness($word1, $word2);
+    ($error, $errorString) = $lesk->getError();
+    die "$errorString\n" if($error);
+    #print "$word1, $word2 = $relatedness\n";
+    return $relatedness;
 }
 
 =pod
@@ -198,12 +243,16 @@ print "\n";
 print length(%dictionary);
 print "\n";
 =cut
-
+#print "$dictionary{$_} - $_\n" for keys %dictionary;
+#print "total words: $totalWords\n";
 
 #print "\n";
 @a = (1, 2, 3);
 @keys = keys %dictionary;
 $size = @keys;
+
+close INFILE;
+close FILE;
 
 =pod
 print "Total contexts: $totalContexts\n";
