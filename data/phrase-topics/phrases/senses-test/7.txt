@@ -1,0 +1,307 @@
+@ play ball
+$ literally
+Pitch#v#4 carry#v#13 all#a#1 quality#n#1 baseball#n#1 softball#n#2 low#a#2 on#r#3 net#n#3 get#v#1 ready#v#2 play#v#1 ball#n#1 Autumn#n#1 Gallery#n#6 Sterling#n#1 Silver#n#1 Jewelry#n#1 At#n#1 Autumn#n#1 Gallery#n#6 offer#n#2 fine#a#5 quality#n#1 jewelry#n#1 not#r#1 available#a#1 anywhere#r#1 in#n#3 world#n#1
+
+@ play ball
+$ figuratively
+Pitch#v#4 carry#v#13 all#a#1 quality#n#1 baseball#n#1 softball#n#2 low#a#2 on#r#3 net#n#3 get#v#1 ready#v#2 play#v#1 ball#n#1 Autumn#n#1 Gallery#n#6 Sterling#n#1 Silver#n#1 Jewelry#n#1 At#n#1 Autumn#n#1 Gallery#n#6 offer#n#2 fine#a#5 quality#n#1 jewelry#n#1 not#r#1 available#a#1 anywhere#r#1 in#n#3 world#n#1
+
+@ play ball
+$ figuratively
+I#n#3 a#n#6 big#a#1 bone#n#1 so#n#1 I#n#1 tend#v#1 go#v#10 shell#v#6 I#n#1 see#v#5 on#r#3 horizon#n#3 hooligan#n#1 I#n#1 pretty#r#1 tame#a#3 I#n#1 play#v#1 ball#n#1 like#a#1 human#n#1 do#v#9 such#a#1 a#n#1 waste#n#1 solar_energy#n#1 I#n#1 known#a#1 a#n#1 long#a#1 long_time#n#1
+
+@ play ball
+$ figuratively
+all#a#1 round#n#7 Blair#n#1 like#a#1 before#r#2 soon#r#1 find#v#2 play#v#1 ball#n#1 particularly#r#1 French#n#1 be#v#1 very#a#2 likely#a#1 stick#n#1 bat#n#5 sun#n#1 do#v#9 shine#v#2 Blair#n#1 now#r#1 Billy#n#1 no#a#1 mate#n#4 in#n#3 Europe#n#1
+
+@ play ball
+$ figuratively
+expect#v#3 print#n#3 government#n#1 want#v#1 reader#n#6 read#v#1 In#n#1 fact#n#2 though#r#1 appear#v#1 be#v#1 a#n#1 form#n#1 censorship#n#1 Britain#n#1 effectively#r#1 control#v#4 by#r#1 time#n#3 happy#a#1 play#v#1 ball#n#1 design#v#4 stir_up#v#3 regardless#a#1 accurate#a#1 or#n#1 not#r#1
+
+@ play ball
+$ figuratively
+2#n#1 Apr#n#1 total#n#2 So#n#1 it#n#1 11#n#1 possibly#r#2 12#n#1 day#n#7 last#a#2 post#n#4 why#n#1 I#n#1 be#v#1 lazy#a#2 I#n#1 try#v#1 get#v#1 Linux#n#1 machine#n#6 play#v#1 ball#n#1 rest#v#6 network#n#1 in_fact#r#1 update#v#1 I#n#1 have#v#2 do#v#9 all#a#1 odd#a#4 configuration#n#2 machine#n#6 I#n#1 get#v#2 work#v#27 on#r#3 Linux#n#1 system#n#1 I#n#1 ping#n#1 either#r#1 network#n#3 card#n#1 laptop#n#1 ping#n#1 each#a#1 other#a#1
+
+@ play ball
+$ figuratively
+Wait#v#1 on#r#3 further#v#2 market#n#4 announce#v#1 it#n#1 ask#v#6 regulator#n#1 permission#n#2 raise#v#2 use#v#1 a#n#1 standard#n#1 formula#n#4 water#n#1 do#v#9 believe#v#2 case#n#5 It#n#1 remain#v#1 be#v#1 or#n#1 not#r#1 regulator#n#1 will#n#3 play#v#1 ball#n#1 it#n#1 company#n#2 profitability#n#1 improve#v#1 somewhat#r#1 potential#n#2 dividend#n#1 growth#n#1 may#n#1 be#v#1 enhance#v#2
+
+@ play ball
+$ figuratively
+Young#a#1 Luke#n#2 buzzing#a#1 a#n#1 new#a#1 mag#n#1 rig#n#6 on#r#3 bait#n#2 back#n#5 zone#n#2 in#n#3 an#n#1 attempt#n#1 get#v#1 a#n#1 carp#n#1 but#r#1 unfortunately#r#1 not#r#1 play#v#1 ball#n#1 In#n#3 between#r#1 tie_up#v#1 Luke#n#2 me#n#1 on#r#3 baiting#n#1 marking#n#1 watercraft#n#2 just_about#r#1 do#v#9 fish#v#2
+
+@ play ball
+$ figuratively
+also#r#1 miss#v#2 a#n#1 couple#n#4 regular#a#1 as#n#1 there#n#1 an#n#1 Council#n#3 meeting#n#1 on#r#3 day#n#1 so#n#1 Technical#n#1 Officer#n#1 Simon#n#4 occupy#v#2 elsewhere#r#1 some#a#1 night#n#1 before#r#2 printer#n#3 play#v#1 ball#n#1 recognise#v#4 four#n#2 new#a#1 just#a#3 a#n#4 big#a#1 problem#n#2
+
+@ play ball
+$ figuratively
+squeamish#a#1 about#r#1 some#r#1 thing#n#12 Tory#n#2 campaign#n#2 say#v#6 but#r#1 Mark#n#12 Austin#n#1 more#n#1 interest#v#1 in#n#3 why#n#1 really#r#1 do#v#9 He#n#1 then#r#2 Blair#n#1 will#n#3 be#v#1 thinking#n#1 but#r#1 in#n#1 a#n#1 serious#a#1 mood#n#1 really#r#1 play#v#1 ball#n#1 Never#r#1 mind#n#7 there#n#1 more#a#1 frippery#n#1 who#n#1 off#v#1 a#n#1 cartoon#n#1 Blair#n#1 disguise#v#1 as#n#2 first#a#1 then#a#1 a#n#4 USA#n#1 poodle#n#1
+
+@ play ball
+$ figuratively
+He#n#1 deal#v#7 food#n#1 effectively#r#1 sensibly#r#1 However#r#1 overwhelm#v#1 case#n#5 reduce#v#1 regulation#n#6 increase#v#2 public#a#1 health#n#1 heavily#r#1 dependant_on#a#1 an#n#1 insurance#n#1 industry#n#1 may#n#1 not#r#1 play#v#1 ball#n#1 he#n#1 on#r#3 less#a#1 certain#a#2 ground#n#1 vex#v#3 issue#n#7
+
+@ play ball
+$ figuratively
+Now#r#1 trading#n#1 leader#n#1 be#v#1 football#n#1 be#v#1 vigilant#a#1 Allen#n#3 executive_director#n#1 trading#n#1 body#n#1 say#v#6 Football#n#1 not#r#1 play#v#1 ball#n#1 rogue#n#1 Counterfeit#a#1 clothing#n#1 damages#n#1 local#n#2 legitimate#a#1 branded#a#1 can#n#5 leave#v#5 poor#a#2 quality#n#1 fall_apart#v#4 after#r#1 a_few#a#1
+
+@ play ball
+$ figuratively
+David#n#3 a#n#1 new#a#1 version#n#4 port#n#1 It#n#1 now#r#1 fine#a#5 on#r#3 old#a#1 even#a#3 nice#a#1 little#a#1 will#n#3 play#v#1 ball#n#1 very#r#1 slowly#r#1 There#n#1 have#v#6 some#a#1 tidy#a#3 so#r#4 it#n#1 possibly#r#2 very#a#2 slightly#r#2 fast#a#1
+
+@ play ball
+$ figuratively
+in_any_case#r#1 every#a#1 lobby#n#2 group#n#1 under#a#1 sun#n#1 currently#r#1 try#v#1 get#v#1 pet#n#2 objective#n#1 CPA#n#1 successful#a#1 make#v#3 process#n#5 even#a#3 less#a#1 useful#a#1 a#n#4 dog#n#1 breakfast#n#1 More#a#2 profoundly#r#1 work#v#24 together#r#1 a#n#1 somewhat#r#1 chequer#v#1 history#n#2 especially#r#1 one#n#1 local_government#n#1 it#n#1 be#v#1 make#v#3 play#v#4 ball#n#1 Shotgun#n#1 rarely#r#1 work#n#6
+
+@ play ball
+$ figuratively
+October#n#1 22#n#1 October#n#1 30#n#1 Again#r#1 a#n#1 deal#n#6 Russia#n#4 Britain#n#1 play#v#1 ball#n#1 character#n#1 not#r#1 a#n#1 real#n#2 Nazi#n#1 at_all#r#1
+
+@ play ball
+$ figuratively
+Absolutely#r#1 right#n#1 but#r#1 far#a#1 more#a#1 difficult#a#1 a#n#1 strategy#n#1 paper#n#1 Marseille#n#1 be#v#1 play#v#1 ball#n#1 on#r#3 transfer#n#1 excellent#a#1 Frank#n#1 Arsenal#n#2 around#r#2 too#r#1 it#n#1 unlikely#a#2 Frenchman#n#1 Old#a#1 bound#n#2 Meanwhile#n#1 transfer#n#1 no#a#1 near#a#1 completion#n#2 after#r#1 United#a#1 bid#v#4 turn#v#1 down#a#1 by#r#1 club#n#2 Lyon#n#1 who#n#1 have#v#13 no#a#1 need#v#2 sell#v#2
+
+@ play ball
+$ figuratively
+It#n#1 not#r#1 be#v#1 Such#a#1 trifling#n#1 beat#v#1 out#n#1 at#n#1 a#n#6 very#a#2 early#a#4 age#n#1 evidence#n#3 play#v#1 ball#n#1 then#r#2 do#v#9 help#n#2 it#n#1 along#r#4 fundamental#a#3 it#n#1 scientist#n#1 concept#n#1 sin#n#2
+
+@ play ball
+$ figuratively
+quite#r#2 credible#a#1 case#n#3 US#n#1 afford#v#2 want#n#2 overthrow#n#1 Saddam#n#1 it#n#1 only#a#1 strengthen#v#1 Syria#n#1 Iran#n#1 US#n#1 government#n#1 really#r#1 want#v#1 find#v#2 a#n#1 means#n#1 rehabilitate#v#1 Saddam#n#1 but#r#1 Saddam#n#1 play#v#1 ball#n#1 I#n#1 think#v#3 want#v#1 deal#v#7 a#n#1 close#n#2 associate#n#1 who#n#1 replace#v#1 but#r#1 resemble#v#1 closely#r#1 though#r#1 preferably#r#1 not#r#1 or#n#1 someone#n#1 grotesque#n#1 array#n#1 keep#v#1 popping#n#1 up#a#1 every_so_often#NR
+
+@ play ball
+$ figuratively
+internet#n#1 service#n#2 warn#v#1 illegally#r#1 risk#n#1 internet#n#1 access#n#4 being#n#2 cut_off#v#1 Mr#n#1 Kennedy#n#2 say#v#6 play#v#1 ball#n#1 he#n#1 either#r#1 lobby#n#1 Brussels#n#1 impose#v#3 or#n#1 take#v#17 legal_action#n#1 Britain#n#1 industry#n#1 body#n#1 say#v#6 it#n#1 not#r#1 cut_off#v#1 it#n#1 order#v#9 do#n#2 so#n#1 by#r#1 a#n#1 relevant#a#1 authority#n#1
+
+@ play ball
+$ figuratively
+Some#a#1 ago#a#1 Borough#n#1 Council#n#2 up#a#1 old#a#1 trick#n#5 closing#n#2 two#n#1 a#n#1 new#a#1 one#n#1 so#n#1 sell#v#2 close#v#7 playing#n#3 field#n#4 development#n#3 As#n#2 know#v#1 however#r#1 School#n#4 not#r#1 play#v#1 ball#n#1 In#n#3 Blair#n#1 offering#n#1 one#n#1 city#n#1 even#a#3 though#r#1 not#r#1 a#n#4 city#n#1 might#n#1 not#r#1 qualify#v#6 a#n#4 a#n#4 unitary#a#2 authority#n#5
+
+@ play ball
+$ figuratively
+I#n#1 write#v#1 agent#n#2 refer#v#6 conversation#n#1 tell#v#2 expect#v#1 difference#n#1 be#v#1 make#v#31 up#a#1 by#r#2 out#n#1 own#a#1 pocket#n#9 not#r#1 following#n#1 explicit#a#2 instruction#n#4 will#v#2 try#v#3 fob_off#v#1 so#r#9 cancel#v#4 agency#n#1 do#v#9 play#v#16 ball#n#1 ca#n#2 make#v#3 any#a#1 further#v#2 are#n#1 in#n#1 breach#v#1 agreement#n#1 after#r#1 cancel#v#4 can#n#5 instruct#v#1 tenant#n#2 deal#n#6 directly#r#4
+
+@ play ball
+$ figuratively
+house#v#2 wired#a#2 up#a#1 camera#n#1 WILL#n#3 NOT#r#1 fire#n#2 most#a#2 probably#r#1 all#r#1 certainly#r#1 all#a#1 I#n#1 have#v#2 test#v#1 existing#a#2 even#a#3 set#v#1 manual#n#1 full#a#1 communication#n#2 down#a#1 all#a#1 5#n#1 flash_camera#n#1 it#n#1 not#r#1 a#n#1 proper#a#1 flash#n#1 play#v#1 ball#n#1 On#a#1 even#a#3 take#v#17 a#n#1 picture#n#6
+
+@ play ball
+$ figuratively
+I#n#1 generally#r#2 play#v#1 well#n#5 live#v#1 so#n#1 I#n#1 thought#n#2 it#n#1 might#n#1 be#v#1 good#a#1 be#v#1 able#a#1 do#v#5 a#n#4 proper#a#1 mix#v#6 play#v#1 in#n#1 audience#n#1 reaction#n#1 maybe#r#1 have#v#2 go_on#v#2 a#n#4 comedy#n#1 CD#n#4 sometime#a#1 but#r#1 no#a#1 audience#n#1 play#v#1 ball#n#1 very#a#2 little#a#1 in_return#r#1
+
+@ play ball
+$ figuratively
+Prepare#v#1 play#v#1 ball#n#1 romantic#a#1 comedy#n#1 year#n#3 Perfect#a#1 Catch#v#7 draw#v#26 Barrymore#n#5 a#n#4 a#n#4 girl#n#1 try#v#1 make#v#3 relationship#n#4 work#n#6 despite#n#1 often#r#2 come#v#1 second_best#n#1 a#n#1 team#n#1
+
+@ play ball
+$ figuratively
+Fill#v#1 it#n#1 in#n#3 see#n#1 Normally#r#1 I#n#1 just#a#1 fish#n#1 a#n#1 single#a#3 or#n#1 a_few#a#1 but#r#1 fish#n#1 not#r#1 play#v#1 ball#n#1 at_all#r#1 After#r#2 twenty#n#2 minutes#n#1 I#n#1 saw#n#2 a#n#1 rise#n#4 corner#n#1 eye#n#4 a#n#4 mixer#n#3 finally#r#2 down#n#5 a#n#4 fish#n#1 mouth#n#2
+
+@ play ball
+$ figuratively
+ever#r#2 want#n#2 new#a#1 call#v#5 produce#v#2 a#n#1 separate#a#1 number#n#2 never#r#1 ever#r#2 an#n#1 automate#v#1 system#n#1 at#n#1 end#n#4 it#n#1 Anyway#r#1 one#n#1 particularly#r#1 stark#a#5 it#n#1 effectively#r#1 cut#n#6 me#n#1 off#v#1 I#n#1 play#v#1 ball#n#1 Once#r#3 decide#v#1 so#r#9 pull_out#v#2 immediate#a#4 access#n#4 an#n#1 operator#n#2 move#v#1 operator#n#2 option#n#3 end#n#12 selection#n#5 or#n#1 hold#n#8 speak#v#1 an#n#1 operator#n#1
+
+@ play ball
+$ figuratively
+A#n#4 number#n#2 private#a#1 equity#n#1 funds#n#1 have#v#1 already#r#1 out#n#1 Rank#n#2 buyout#n#1 But#r#1 chief_executive#n#1 Mike#n#1 Smith#n#10 apparently#r#2 unwilling#a#1 play#v#1 ball#n#1 be#v#1 say#v#6 be#v#1 particularly#r#1 interested#a#2 in#n#3 Mecca#n#1 bingo#n#1 owner#n#1 gaming#n#1 arm#n#6 34#a#1
+
+@ play ball
+$ figuratively
+It#n#1 calculate#v#1 deliver#v#3 a#n#1 saving#n#2 not#r#1 put#v#1 dealer#n#1 out#n#1 business#n#1 However#r#1 salesman#n#1 play#v#1 ball#n#1 call#n#3 Target#n#5 Price#n#2 put_in#v#1 touch#n#5 someone#n#1 who#n#1 will#n#3 Do#v#9 homework#n#1 Even#a#3 have#v#13 decide#v#3 a#n#1 dealer#n#1 will#n#3 get#v#12 cash#n#1 make_sure#v#1 check_out#v#1 available#a#1 other#a#1
+
+@ play ball
+$ figuratively
+But#r#1 loser#n#2 be#v#1 Government#n#1 TV#n#1 send_out#v#1 SOS#n#1 Rule#n#10 1#n#1 Never#r#1 try#v#1 keen#n#1 play#v#1 ball#n#1 right#n#1 price#n#1 Inside#a#1 Old#a#1 Gold#n#3 An#n#1 special#a#1 investigation#n#2 revealing#n#1 battle#n#1 Old#a#1 a#n#1 plan#n#1 Sir#n#1 reverse#v#1 plan#n#1 retire#v#1 ahead#a#1 surprise#n#3 decision#n#1 stay_on#v#1 a#n#1 manager#n#2 Gold#n#3 part#n#2 two#n#1
+
+@ play ball
+$ figuratively
+socialist_party#n#1 on#r#3 block#n#1 enter#v#5 election#n#2 other#a#1 Socialist#n#1 Alliance#n#3 a#n#1 joint#n#1 socialist#n#1 list#n#1 London#n#1 apparently#r#2 partly#r#1 Mr#n#1 party#n#1 play#v#1 ball#n#1 Socialist#n#1 Party#n#1 decide#v#1 not#r#1 run#n#2 fear#n#1 split#v#1 vote#n#1 but#r#1 still#a#6 standing#a#3
+
+@ play ball
+$ figuratively
+there#n#1 a#n#1 concern#n#5 destabilise#v#1 thing#n#8 on#r#1 Unionist#n#1 side#n#5 house#n#1 particularly#r#1 in#n#3 relation#n#1 Loyalist#n#1 who#n#1 sign#v#3 up#a#1 fine#a#5 balance#n#11 in#n#3 there#n#1 a#n#1 concern#n#5 play#v#1 ball#n#1 new#a#1 Assembly#n#4 may#n#1 think#v#3 get#v#1 want#n#2 at#n#1 end#n#12 all#a#1 finally#r#2 Prime#v#1 Minister#v#1 always#r#1 asking#n#1 long#a#1 go#v#10 stay#v#1 in#n#1 job#n#12
+
+@ play ball
+$ figuratively
+I#n#2 too#r#1 many#a#1 accept#v#3 role#n#2 student#n#2 It#n#1 impossible#a#1 play#v#1 ball#n#1 teaching#n#3 There#n#1 a#n#1 kind#a#1 indifference#n#4 luck#n#1 good#a#1 bad#a#1 in#n#1 curiosity#n#1 entirely#r#1 honourable#a#1
+
+@ play ball
+$ figuratively
+pharmacist#n#1 need#v#1 supervise#v#1 he#n#1 not#r#1 course#n#1 government#n#1 still#n#3 in#n#1 a#n#1 fix#n#5 about#r#4 number#n#2 GPs#n#1 only_too#r#1 please#v#2 play#v#1 ball#n#1 pharmacy#n#2 help#n#2 wriggle#v#1 out#v#1 fix#n#3 in#n#3 an#n#1 overwhelm#v#1 burst#n#1 hypocrisy#n#2 supervision#n#1 reject#v#3
+
+@ play ball
+$ figuratively
+QUOTE#n#2 control#n#9 Iraqi#n#1 oil#n#1 issue#n#7 why#n#1 Bush#n#1 senior#a#1 not#r#1 simply#r#1 drive#v#3 on#r#3 Baghdad#n#1 in#n#3 Good#a#1 question#n#3 I#n#1 do#v#9 know#v#1 answer#n#2 but#r#1 maybe#r#1 play#v#1 ball#n#1 all#a#1 after#r#1 bearing#n#5 tooth#n#1 but#r#1 he#n#1 so#r#9 hence#r#1 QUOTE#n#1 drive#v#3 up#a#1 Oil#n#1 price#n#1 issue#n#7 he#n#1 have#v#6 more#a#2 by#r#1 attack#v#1 Saudi#n#1 Arabia#n#1 American#n#1 Mecca#n#1 Medina#n#1 have#v#1 great#a#3 unrest#n#1 in#n#3 Muslim#n#1 world#n#4
+
+@ play ball
+$ figuratively
+be#v#1 enough#n#1 public#a#1 available#a#1 Will#n#3 private#a#1 sector#n#4 play#v#1 ball#n#1 be#v#1 there#n#1 other#a#1 might#n#1 deliver#v#3 similar#a#3 or#n#1 even#a#3 good#a#1
+
+@ play ball
+$ figuratively
+record#v#1 deal#v#6 McCartney#n#1 he#n#1 get#v#1 famous#a#1 four#n#1 back#n#5 together#r#1 in#n#1 studio#n#1 he#n#1 genuinely#r#1 have#v#1 Lennon#n#1 al#n#2 play#v#1 ball#n#1 open#v#1 question#n#3 Lennon#n#1 course#n#1 murder#v#1 in#n#1 before#r#2 much#a#1 have#v#6 take#v#18 place#v#7
+
+@ play ball
+$ figuratively
+Such#a#1 risk#n#1 being#n#2 In#n#1 end#n#4 will#n#2 government#n#1 have#v#6 legislate#v#1 work#n#2 only#a#1 concerned#a#1 want#n#2 play#v#1 ball#n#1 trouble#n#1 have#v#13 a#n#1 legal#a#1 obligation#n#1 maximise#v#1 profit#v#1
+
+@ play ball
+$ figuratively
+So#r#9 change#v#1 march#n#2 on#r#3 in#n#1 guise#n#1 improvement#n#2 modernisation#n#1 reform#n#1 commissioning#n#1 a#n#1 major#n#4 initiative#n#2 it#n#1 seem#v#1 majority#n#1 be#v#1 play#v#1 ball#n#1 GPs#n#1 do#v#9 get#v#1 tooth#n#1 change#v#1 then#r#2 see#v#5 really#r#1 useful#a#1 emerge#v#4
+
+@ play ball
+$ figuratively
+One#a#1 company#n#2 a#n#1 salvage#n#1 drug#n#1 another#a#1 one#n#1 in#n#3 development#n#3 about#r#4 share#v#2 knowledge#n#1 see#v#24 work#v#24 better#v#3 together#r#1 But#r#1 other#a#1 company#n#1 drug#n#1 so_far#r#1 advance#v#9 in#n#3 development#n#3 play#v#1 ball#n#1 However#r#1 on#r#1 some#a#1 occasion#n#2 two#n#1 new#a#1 be#v#1 be#v#1 develop#v#15 by#r#1 same#a#2 company#n#1 he#n#1
+
+@ play ball
+$ figuratively
+Arsenal#n#2 DVD#n#1 due#n#2 February#n#1 will#n#3 feature#n#2 Robert#n#1 Henry#n#1 Reyes#n#1 Sol#n#3 Campbell#n#1 Patrick#n#1 Santa#n#1 will#n#3 probably#r#2 have#v#13 a#n#1 sackful#n#1 Man#n#4 deliver#v#3 but#r#1 I#n#1 wonder#n#3 he#n#1 play#v#1 ball#n#1 Here#n#2 at#n#1 DVD#n#1 Web#n#4 be#v#1 constantly#r#1 on#r#3 look_out#v#1 new#a#1 look#v#2 writing#n#2 experience#n#3 be#v#1 good#a#1 a#n#1 DVD#n#1 review#n#2 post#v#4 on#r#3 web#n#4 be#v#1 read#v#6 by#r#2 people#n#1
+
+@ play ball
+$ literally
+he#n#1 first#a#1 he#n#1 scare#v#1 people#n#1 but#r#1 quickly#r#2 realise#v#1 people#n#1 mean#n#1 fun#n#4 Now#r#1 he#n#1 play#v#1 ball#n#1 play#v#1 people#n#1 he#n#1 As#n#1 long#a#2 a#n#1 be#v#1 do#v#9 in#n#1 a#n#1 playful#a#1 positive#n#2 way#n#6 will#n#3 overcome#v#1 little#a#1 be#v#1 a#n#4 great#n#1 pal#n#1 one#n#1 lucky#a#2 owner#n#1
+
+@ play ball
+$ literally
+Bit#n#6 by#r#1 bit#n#5 week_by_week#r#1 decrease#n#4 be#v#1 overcome#v#1 A#n#1 child#n#2 may#n#1 panic#n#2 break_out#v#1 in#n#1 a#n#1 sweat#n#4 see#v#24 sea#n#1 a_few#a#1 late#a#5 in#n#3 good#a#1 child#n#1 will#n#3 be#v#1 happily#r#1 play#v#1 ball#n#1 us#n#1 or#n#1 I#n#1 do#v#9 not#r#1 believe#v#1 time#n#5 all#a#1 a#n#1 often#r#2 say#v#6
+
+@ play ball
+$ literally
+A#n#1 one#n#1 judge#n#1 brilliantly#r#2 stay_on#v#1 board#n#3 complete#a#1 test#n#5 otherwise#a#1 team#n#1 never#r#1 have#v#1 10th#a#1 place#n#9 Straight#a#2 after#r#2 test#n#5 vet#n#2 who#n#1 spasmodic#a#2 colic#n#1 no#a#1 wonder#n#3 Nicholas#n#1 want#v#1 play#v#1 ball#n#1 Elizabeth#n#2 also#r#1 a#n#1 great#n#1 start#n#5 day#n#3 competition#n#2 tooth#n#1 abscess#n#1 up#a#1 in#n#3 one#n#1 side#n#4 face#n#6 swelling#n#1 twice#r#2 normal#a#1 size#n#1
+
+@ play ball
+$ literally
+Sacrilegious#a#1 I#n#3 hear#v#1 do#v#9 play#v#16 ball#n#1 in#n#1 a#n#1 confident#a#1 smirk#n#1 he#n#2 A#n#6 jealous#a#2 man#n#4 story#n#3
+
+@ play ball
+$ literally
+A#n#1 little#a#6 blue#n#7 ball#n#5 a#n#4 frisbee#n#1 complete#v#1 picture#n#6 Then#r#2 along#r#2 two#n#1 old#a#1 who#n#1 be#v#1 play#v#1 ball#n#1 on#r#3 bowling_green#n#1 I#n#1 must#n#3 confess#v#3 I#n#1 spot#v#4 prohibitory#a#1 notice#v#1
+
+@ play ball
+$ literally
+last#a#2 two#n#1 year#n#3 on#r#3 holiday#n#2 u#n#1 a#n#4 chalet#n#1 right_on#r#1 beach#n#1 love#v#1 it#n#1 I#n#1 down#a#1 near#a#1 sea#n#1 every#a#1 morning#n#1 play#v#1 ball#n#1 love#v#1 running_back#n#1 forward#n#1 ball#n#5 only#a#1 thing#n#12 like#v#1 get#v#1 sand#n#1 between#r#1
+
+@ play ball
+$ literally
+At#n#1 front#n#10 cottage#n#1 there#n#1 be#v#1 two#n#1 grass#n#1 be#v#1 sole#n#1 use#n#1 at#n#1 nest#n#1 offer#n#2 plenty#n#2 space#n#2 play#v#1 ball#n#1 run_around#v#1 or#n#1 enjoy#v#2 There#n#1 a#n#1 long#a#2 drive#n#3 adjacent#a#1 cottage#n#1 off#v#1 road#n#1 park#v#2 up#a#1 three#n#2
+
+@ play ball
+$ literally
+I#n#1 be#v#1 sure#a#3 it#n#1 will#n#3 a#n#1 certain#a#2 extent#n#2 but#r#1 in#n#1 coming#n#1 area#n#1 school#n#2 building#n#1 it#n#1 means#n#1 loose#a#2 only#a#1 green#n#2 space#n#2 have#v#1 only#a#1 place#n#1 can#n#5 play#v#1 ball#n#1 a#n#1 terrible#a#3 loss#n#6 area#n#1
+
+@ play ball
+$ literally
+prison#n#1 really#r#1 a#n#2 vast#a#1 concentration_camp#n#1 on#r#3 edge#n#2 a#n#1 small_town#n#1 Market#v#3 sell#v#4 fresh#a#1 fruit#n#1 play#v#1 ball#n#1 in#n#3 dusty#a#1 normality#n#1 life#n#4 outside#a#4 ghastly#a#2 place#n#9 so#n#1 many_an#a#1 end#n#12 horrible#a#1 many#a#1 people#n#1 probably#r#2 have#v#13 in#n#3 prison#n#1
+
+@ play ball
+$ literally
+It#n#1 southeasterly#a#2 on#a#1 one#n#1 side#n#4 there#n#1 a#n#1 6#n#1 fence#n#1 out#n#1 virtually#r#2 all#a#1 afternoon#n#1 sun#n#1 I#n#1 also#r#1 have#v#13 a#n#1 bounce#v#2 5#n#1 year#n#3 old#a#2 a#n#1 passion#n#4 roll#v#14 about#r#5 play#v#1 ball#n#1 garden#n#1 build#v#1 on#a#1 an#n#1 old#a#1 building_site#n#1 it#n#1 impossible#a#1 plant#n#2 in#n#3 ground#n#1 as#n#1 about#r#4 5#n#1 deep#n#2 rubble#n#1
+
+@ play ball
+$ literally
+redevelopment#n#1 lost#a#1 secure#v#2 play#v#1 area#n#1 use#v#1 previously#r#1 an#n#1 area#n#3 front#n#10 building#n#1 temporary#a#1 fencing#n#1 provide#v#1 an#n#1 outdoor#a#1 area#n#1 not#r#1 ideal#n#1 but#r#1 provide#v#1 a#n#4 much#a#1 need#v#1 facility#n#1 enjoy#v#2 good_weather#n#1 play#v#1 ball#n#1 be#v#1 not#r#1 indoors#r#1 on#r#3 site#n#1 club#n#2 a#n#1 total#n#2 9#n#1 day#n#1 over#n#1 last#n#7 3#n#1 school#n#4 holiday#n#2
+
+@ play ball
+$ literally
+Handball#n#1 A#n#1 Whole#n#2 New#a#1 Ball#n#1 Game#n#3 Article#n#3 by#r#2 Tom#n#1 Handball#n#2 Coach#n#5 Trinity#n#3 College#n#2 Dublin#n#1 Handball#n#1 Hand#n#1 play#v#1 ball#n#1 main#n#1 be#v#1 English#n#1 five#n#2 Irish#n#1 handball#n#1 Spanish#a#1 pelota#n#1 French#n#1 de#n#1 spread#n#7 many#a#1 other#a#1 adopt#v#4 adapt#v#2 various#a#1 own#a#1 special#a#1 need#n#3 now#r#1 find#v#2 on#r#3 all#a#1 five#n#3
+
+@ play ball
+$ literally
+playing#n#3 out#n#1 I#n#1 remember#v#2 playing#n#3 outside#a#4 I#a#1 12#a#1 play#v#1 badminton#n#1 outside#a#9 there#n#1 many#a#1 know#v#1 play#v#1 ball#n#1 football#n#2 thing#n#12 it#n#1 much#a#1 more#a#1 safe#a#1 But#r#1 now#r#1 I#n#1 even#a#3 allow#v#2 go#v#1 outside#a#4 I#n#1 just#a#1 do#v#9 feel#v#1 safe#a#1 anymore#r#1
+
+@ play ball
+$ literally
+I#n#1 remember#v#2 hot#a#1 boil#v#5 peanut#n#2 one#n#1 Saturday#n#1 on#r#3 a#n#1 street_corner#n#1 I#n#1 have#v#2 grits#n#1 in#n#3 play#v#1 ball#n#1 on#r#3 be#v#1 good#a#1 people#n#1 deserve#v#1 people#n#1 all#a#1 love#n#1 hope#n#2 respect#n#2 I#n#1 can#n#5 offer#n#2
+
+@ play ball
+$ literally
+must#n#3 not#r#1 cause#n#5 a#n#1 nuisance#n#1 annoyance#n#4 or#n#1 disturbance#n#6 any#a#1 other#a#1 person#n#1 noise#n#1 loud#a#1 music#n#1 dog#n#1 offensive#n#1 drunken#a#1 behaviour#n#4 rubbish#n#1 dumping#n#1 play#v#1 ball#n#1 close#n#2 someone#n#1 home#n#2 must#n#3 not#r#1 harass#v#1 any#a#1 other#a#1 person#n#1
+
+@ play ball
+$ literally
+other#a#1 two#n#1 pick_up#v#14 ball#n#5 it#n#1 attack#v#1 by#r#1 head#v#7 back#n#5 forth#n#1 catch#n#9 ball#n#5 start#v#12 head#v#4 action#n#7 etc.#r#1 Score#v#1 by#r#1 head#v#5 ball_over#v#1 defensive#n#1 or#n#1 by#r#2 play#v#1 ball#n#1 below#r#1 head#n#24 height#n#1 offensive#a#5 head#v#5
+
+@ play ball
+$ literally
+In#n#3 term#n#5 first#a#1 it#n#1 a#n#4 great#n#1 sunny#a#1 day#n#1 All#a#1 opportunity#n#1 enjoy#v#2 either#r#1 by#r#1 play#v#1 ball#n#1 or#n#1 table#n#2 very#r#1 lucky#a#3 day#n#3 temperature#n#1 ideal#n#1 carry_out#v#1 outdoor#a#1 a#n#4 a#n#4 result#n#1 a#n#4 good_time#n#1
+
+@ play ball
+$ literally
+main#n#1 part#n#2 include#v#2 in#n#3 book#n#10 be#v#1 language#n#1 development#n#3 supporting#n#1 communication#n#2 development#n#3 in#n#1 verbal#a#2 fourth#a#1 book#n#9 gross#a#2 motor#n#1 such#a#1 a#n#1 sit#v#6 walk#v#1 climb#v#1 play#v#1 ball#n#1 etc.#r#1 fifth#n#1 book#v#3 fine#v#1 motor#n#1 such#a#1 as#n#1 puzzle#n#2 or#n#1 drawing#n#2 Concept#n#1 acquisition#n#1 include#v#2 in#n#3 book#n#9 as_well#r#1
+
+@ play ball
+$ literally
+4#n#1 on#a#2 today#n#2 describe#v#3 a#n#4 a#n#4 completely#r#1 different#a#1 dog#n#1 off#v#1 lead#n#2 I#n#1 thought#n#2 may#n#1 never#r#1 happen#v#1 just#a#1 2#n#1 ago#a#1 play#v#1 ball#n#1 other#a#1 in#n#1 a#n#1 well#n#5 field#n#17 seem#v#1 have#v#2 a#n#1 care#n#1 in#n#3 world#n#1 Indoors#r#1 still#n#3 a#n#1 tendency#n#3 tuck#n#2 little#a#6 in#n#1 various#a#2 room#n#1 remains#n#1 a_little#r#1 wary#a#1 husband#v#1
+
+@ play ball
+$ literally
+weird#n#1 horse#n#1 sculpture#n#1 laugh#v#1 vase#n#1 Peter#n#1 break#v#6 Mama#n#1 always#r#1 say#v#6 Do#v#9 play#v#16 ball#n#1 in#n#3 house#n#11 remember#v#2 one#a#3
+
+@ play ball
+$ literally
+5#n#1 A#n#1 DREADFUL#a#1 SUMMER#n#1 I#n#1 ca#n#2 help#n#2 get#v#1 more#a#2 melancholic#a#1 annoyance#n#1 anxiety#n#1 live#v#1 in#n#3 area#n#1 noisy#a#1 will#n#3 be#v#1 out#n#1 start#n#5 play#v#1 in_play#a#1 elsewhere#r#1 I#n#1 but#r#1 always#r#1 play#n#9 IN#n#1 all#a#1
+
+@ play ball
+$ literally
+Two#n#1 hang_up#v#2 dry#v#1 one#n#1 wash#v#3 away#r#1 one#n#1 in#n#3 arm#n#1 a#n#4 tree#n#1 Five#n#3 play#v#1 ball#n#1 in#n#1 yard#n#1 four#n#2 die#n#1 one#n#1 up#a#1 wall#n#1 Fifteen#n#1 in#n#3 village#n#2 all#a#1 rubble#n#1
+
+@ play ball
+$ literally
+or#n#1 live#v#1 or#n#1 visit#v#1 home#n#2 must#n#3 not#r#1 cause#n#5 a#n#1 nuisance#n#1 annoyance#n#4 or#n#1 disturbance#n#6 any#a#1 other#a#1 person#n#1 nuisance#n#1 annoyance#n#4 or#n#1 disturbance#n#6 include#v#3 loud#a#1 music#n#1 arguing#n#1 door#n#1 dog#n#1 offensive#n#1 drunkenness#n#2 selling#n#1 or#n#1 drug_abuse#n#1 rubbish#n#1 dumping#n#1 play#v#1 ball#n#1 close#n#2 someone#n#1 home#n#2 or#n#1 live#v#1 or#n#1 visit#v#1 home#n#2 must#n#3 not#r#1 harass#v#1 any#a#1 other#a#1 person#n#1
+
+@ play ball
+$ literally
+Michael#n#1 Jordan#n#2 ball#n#5 Charles#n#9 Manson#n#1 people#n#1
+
+@ play ball
+$ literally
+be#v#1 available#a#1 in#n#3 season#n#2 There#n#1 plenty#n#2 space#n#2 play#v#1 ball#n#1 tennis#n#1 equipment#n#1 There#n#1 easy#a#1 access#n#4 Spain#n#1 many#a#1 picturesque#a#1 South#n#1 West#n#3 France#n#1
+
+@ play ball
+$ literally
+check#v#9 out#v#2 site#n#1 forum#n#2 kindly#r#1 send#v#1 me#n#1 a#n#4 snap#n#8 one#n#1 cooling#n#2 off#v#1 in#n#1 a#n#1 waterfall#n#1 It#n#1 just#a#3 can#n#5 adapt#v#1 technique#n#1 splashing#n#1 about#r#4 play#v#1 ball#n#1 really#r#1 give#v#10 focus#v#1 Pat#n#1 have#v#1 courage#n#1 pick_up#v#5 a#n#1 brush#n#2 a#n#1 life#n#9 change#v#2 experience#v#5 now#r#1 disable#v#1 a_lot#r#1 spare_time#n#1 relax#v#1
+
+@ play ball
+$ literally
+off#r#1 lead#v#6 recent#a#2 see#v#1 around#r#3 freely#r#1 a#n#1 fabulous#a#2 time#n#5 a#n#1 tear#n#1 eye#n#1 Last#n#7 time#n#5 even#a#3 play#v#1 ball#n#1 running#n#1 up#a#1 Mrs#n#1 B#n#2 in#n#3 between#r#1 I#n#1 so#n#1 glad#a#1 such#a#1 rubbish#n#1 ca#n#1 imagine#v#1 not#r#1 here#n#2 now#r#1
+
+@ play ball
+$ literally
+Limit#v#1 trampling#n#1 by#r#1 people#n#1 within#r#1 new#a#1 tree#n#1 can#n#5 help#n#2 keep_down#v#2 vegetation#n#1 Small#a#1 tree#n#1 plant#v#1 within#r#1 school#n#4 ground#n#1 or#n#1 parks#n#1 there#n#1 some#a#1 level#n#1 supervision#n#1 may#n#1 be#v#1 worth#n#2 fence#v#4 protect#v#1 heavy#a#1 trampling#n#1 by#r#2 play#v#1 ball#n#1 so#n#1 on#r#3 A#n#4 stock#n#1 netting#n#1 fence#n#1 type#n#6 below#r#1 be#v#1 suitable#a#2
+
+@ play ball
+$ literally
+have#v#13 brilliant#a#2 be#v#1 prepare#v#1 work_at#v#1 contact#n#7 or#n#1 Male#n#2 Want#v#1 Post#v#4 by#r#1 on#r#3 99#a#1 have#v#13 a#n#1 Molly#n#1 who#n#1 6#n#1 year#n#3 old#a#2 play#v#1 ball#n#1 long#a#2 extremely#r#1 well#r#1 very#r#1 indoors#r#1
+
+@ play ball
+$ literally
+report#v#5 on#a#1 contentious#a#1 issue#n#7 play#v#1 ball#n#1 in#n#3 street#n#1 unusual#a#2 step#n#4 printing#n#3 a#n#1 statement#n#1 make#v#3 by#r#1 local#n#2 who#n#1 why#n#1 not#r#1 be#v#1 play#v#1 in#n#1 own#a#1 street#n#1 a#n#4 soft#a#9 ball#n#5 in_full#r#1 view#v#1 feel#v#1 safe#a#1 not#r#1 inclined#a#2 play#n#9 in#n#1 a#n#1 nearby#a#1 field#n#4 it#n#1 littered#a#1 burnt-out#a#3 break#v#17 glass#v#5 litter#n#3
+
+@ play ball
+$ literally
+week#n#1 a#n#1 week#n#1 Feast#v#2 Morris#n#3 fisticuffs#n#2 play#v#1 ball#n#1 etc.#r#1 Tavern#n#1 wall#n#1 Tithe#n#2 Barn#n#1 special#a#1 place#n#9 young#a#1 people#n#1 mostly#r#1 a#n#1 kind#a#1 comedy#n#1 by#r#1
+
+@ play ball
+$ literally
+I#n#1 bear#v#10 in#n#3 in#n#3 Main#n#1 I#n#1 Primary#a#1 School#n#4 I#a#1 14#a#1 I#a#1 childhood#n#1 day#n#3 play#v#1 ball#n#1 on#a#1 at#n#1 building#n#1 hence#r#1 name#n#1 present#n#1 day#n#1 shopping_centre#n#1 In#n#3 teen#n#1 war#n#1 I#n#1 in#n#3 Hospital#n#1 office#n#2
+
+@ play ball
+$ literally
+It#n#1 all#a#1 like#a#1 ideal#n#1 job#n#1 a#n#4 travel#v#1 bod#n#1 like#a#1 me#n#1 one#n#1 go_about#v#1 start#v#13 train#v#6 a#n#1 pro#n#1 paintball#n#2 team#n#1 OH#n#1 Well#n#1 I#n#1 play#v#1 different#a#1 before#r#2 I#n#1 enough#n#1 all#a#1 politics#n#2 want#v#1 just#a#3 go_back#v#3 fun#n#2 play#v#1 ball#n#1 So#n#1 I#n#1 decide#v#1 start#n#5 Halloween#n#1
+
+@ play ball
+$ literally
+more#a#2 detail#n#1 please#v#2 contact#n#7 Zone#n#3 through#a#2 club#n#2 on#r#3 or#n#1 e-mail#n#1 OPENING#n#10 TIMES#n#1 Monday#n#1 Friday#n#1 Sunday#n#1 a#n#1 supervised#a#1 facility#n#1 full#a#1 range#n#4 all#a#1 0#n#1 5#n#1 year#n#3 a#n#1 soft#a#3 play#v#1 ball#n#1 pond#n#1 There#n#1 also#r#1 a#n#1 separate#a#1 baby#n#1 unit#n#6
+
+@ play ball
+$ literally
+He#n#1 kind#a#1 as#n#1 can#n#5 be#v#1 He#n#1 me#n#1 so#n#1 happy#a#1 He#n#1 dad#n#1 see#n#1 He#n#1 me#n#1 out#n#1 fishing#n#1 play#v#1 ball#n#1 swim#n#1 He#n#1 about#r#4 I#n#1 so#n#1 proud#a#1 as#n#1 I#n#1 get#v#1 big#a#1 I#n#1 just#a#1 want#n#2 grow#v#2 be#v#1 like#v#1 daddy#n#1 Cause#n#5 I#n#1 love#n#1 so#n#1
+
+@ play ball
+$ literally
+Enjoy#v#1 50#n#1 minute#n#1 exclusive#a#2 use#v#1 pool#n#6 supervised#a#1 by#r#1 leisure#n#2 centre#n#3 ensure#v#2 safety#n#1 Have#n#1 great#n#1 fun#n#2 on#r#3 large#a#1 play#v#1 play#v#1 Premier#n#1 Party#n#1 premier#n#1 party#n#1 also#r#1 50#n#1 minute#n#1 exclusive#a#2 use#v#1 pool#n#6 but#r#1 instead#r#1 play#v#1 equipment#n#1 face#n#1 challenge#v#2 16#n#1 metre#n#1 long#a#1 AQUA#n#1 SCRAMBLE#v#4 pool#n#6 inflatable#a#1
+
+@ play ball
+$ literally
+There#n#1 a#n#4 dog#n#1 exercise#n#1 area#n#3 on#r#3 site#n#1 have#v#13 a#n#4 large#a#1 open#n#1 area#n#1 suitable#a#2 play#v#1 ball#n#1
