@@ -1,0 +1,8 @@
+ball
+win
+home
+week
+season
+team
+agents
+weekend

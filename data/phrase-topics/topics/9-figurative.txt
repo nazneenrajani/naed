@@ -1,0 +1,12 @@
+day
+votes
+home
+years
+sales
+drive
+labour
+water
+tax
+crime
+insurance
+search
