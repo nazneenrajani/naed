@@ -68,10 +68,6 @@ Back#n#5 top#n#2 Join#v#2 27#n#1 Jan#n#1 Location#n#1 Yorkshire#n#1 Post#v#4 Mon
 
 @ rub it in
 $ figuratively
-Back#n#5 top#n#2 Join#v#2 27#n#1 Jan#n#1 Location#n#1 Yorkshire#n#1 Post#v#4 Mon#n#1 Mar#n#1 20#n#1 pm#n#3 Post#n#3 subject#n#3 I#n#1 burn#n#3 Public#n#1 Enemy#n#3 I#n#1 like#a#1 rub#n#2 it#n#1 in#n#1 Slim#v#1 but#r#1 COME#v#4 ON#r#3 Do#v#9 mind#n#1 I#n#1 smoke#n#7
-
-@ rub it in
-$ figuratively
 claim#n#1 it#n#1 out#v#2 Mark#n#1 Ken#n#2 only#a#1 entitle#v#3 out#n#1 by#r#1 number#n#2 divided#a#1 by#r#1 attendance#n#1 at#n#1 gig#n#2 thought#n#2 it#n#1 hilarious#a#1 immediately#r#2 a#n#1 new#a#1 song#n#1 replacing#n#1 Disappear#v#2 track#n#1 on#r#3 demo#n#1 rub#n#2 it#n#1 in#n#1 even#a#3 further#v#2 put#v#1 it#n#1 out#v#2 on#r#3 sale#n#5 at#n#1 Mark#n#7 Ken#n#2 under#a#1 stone#n#4
 
 @ rub it in
