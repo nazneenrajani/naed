@@ -1,22 +1,28 @@
-# ------------------------------------------------------------------
-# Computes the relatedness of two elements and gives the lesk score.
-# http://search.cpan.org/dist/WordNet-Similarity/lib/WordNet/Similarity/lesk.pm
-# ------------------------------------------------------------------
+# ----------------------------------------------------------------------------
+# Computes the relatedness of words from a phrase to the words from the context
+# Vector similarity
+# ---------------------------------------------------------------------------
 
 
 use WordNet::QueryData;
 use WordNet::Similarity::lesk;
 use WordNet::SenseRelate::WordToSet;
 
+ use WordNet::Similarity::vector; #other measurement
+
 
 my $wn = WordNet::QueryData->new();
 my $lesk = WordNet::Similarity::lesk->new($wn);
 
-# To compute the sense of the words of a given phrase.   
+my $vector = WordNet::Similarity::vector->new($wn);
+
+# To compute the sense of the words of a given phrase.  
+=pod 
 my %options = (wordnet => $wn,
                       measure => 'WordNet::Similarity::lesk');#'WordNet::Similarity::lesk');
 
 my $wsd = WordNet::SenseRelate::WordToSet->new (%options);
+=cut
 
 my %dictionary = (); # Dictionary of the words present in the texts
 my $totalWords = 0;
@@ -25,14 +31,15 @@ my $totalContexts = 0;
 my @vectors = (); # Array that contains vectors of each sample context
 
 
-open INFILE, "data/senses/senses-train.txt" or die $!;
-open FILE, "data/phrase-senses/phrases-train.txt" or die $!; # File that contains the phrase and the sense of the words.
+open INFILE, "data/senses/temporal-train.txt" or die $!;
+open FILE, "data/phrase-senses/temporal-train.txt" or die $!; # File that contains the phrase and the sense of the words.
 #open INFILE, "edaena.txt" or die $!;
 #open FILE, "edaena-phrases.txt" or die $!; # File that contains the phrase and the sense of the words.
 my @lines = <INFILE>;
 my @phrases = <FILE>; # Phrases or words from phrases with their sense.
-open OUT, ">data/vectors/train-vectors.txt" or die $!;
-
+#open OUT, ">data/vectors/2-train-vectors.txt" or die $!;
+#open OUT, ">data/vectors/train-vectors.txt" or die $!;
+open OUT, ">data/basic/temporal-train.txt";
 
 my $phrase = "";
 my $isLiterally;
@@ -83,15 +90,6 @@ foreach (@lines) {
         
      } # else
 }
-
-my $relatedness = $lesk->getRelatedness("car#n#1", "bus#n#2");
-
-($error, $errorString) = $lesk->getError();
-
-die "$errorString\n" if($error);
-
-
-#print "car (sense 1) <-> bus (sense 2) = $relatedness\n";
 
 # ------------
 # Subroutines
@@ -156,70 +154,69 @@ sub computeRelatednessVector
     
     #print "Getting relatedness vector:\n";
     my @words = @_;
-    $size = @phraseWords;
+    my $size = @phraseWords;
     
+    my $numWords = 0;
+    foreach my $w (@words) {
+        if ($w ne "") { $numWords = $numWords + 1; }
+    }
     foreach my $pw (@phraseWords) {
         chomp($pw);
-        if ($pw ne "") {
-            my @wrelatedness = (0) x $totalWords; #initialize array with zeros.
-            
+        if ($pw ne "") { $size = $size + 1; }
+    }
+    my $normalizeFactor = $size * $numWords * 1.0;
+    my $totalRelatedness = 0;
+    my $maxValue = 0;
+    foreach my $pw (@phraseWords) 
+    {
+        chomp($pw);
+        if ($pw ne "") 
+        {
             #print $pw . "\n";
-            foreach my $w (@words) {
-                if ($w ne "") {
-                my @word = split('#', $w);
-                my $length = @word;
-                if ($length == 3) {
-                    my $relatedness = getRelatedness($pw, $w);
-                    # write relatedness in array
-                    
-                    my $index = $dictionary{lc($word[0])};
-                    
-                    if ($wrelatedness[$index] != 0) {
-                        $wrelatedness[$index] = $relatedness / 2.0;
-                    }
-                    else { $wrelatedness[$index] = $relatedness; }
-                    }
-                }
-                
-            } # foreach
-            foreach my $v (@wrelatedness) {
-                #print $v . "\n";
+            foreach my $w (@words) 
+            {
+                if ($w ne "") 
+                {
+                    my @word = split('#', $w);
+                    my $length = @word;
+                    if ($length == 3) 
+                    {
+                        my $relatedness = getRelatedness($pw, $w);
+                        #if ($relatedness > $maxValue) { $maxValue = $relatedness;}
+                        $totalRelatedness = $totalRelatedness + $relatedness;             
+                    }           
+                } 
             }
-            push(@phraseVectors, [@wrelatedness]);
-        } #if
-        
+        } #if 
     } # foreach
-
-    $s = @phraseVectors;
-    #print "$s\n";
-    
-    for $aref ( @phraseVectors ) {
-        my $i = 0;
-
-        #print "\t [ @$aref ],\n";
-    }
-    # Add vectors:
-    
-    for $aref ( @phraseVectors ) {
-        my $i = 0; # initialize index of the phrase vector
-        foreach my $v (@$aref) {
-            $phraseVector[$i] = $phraseVector[$i] + $v;
-            $i = $i + 1;
-        }
-    }
+    #my $normalizedRelatedness = ($totalRelatedness / $maxValue) / $normalizeFactor; # for lesk
+    $normalizedRelatedness = $totalRelatedness / $normalizeFactor;
+    print "$normalizedRelatedness\n";
     # figurative = 1
     my $result = "";
     if ($isLiterally == 1) { $result = $result . "0"; }
     else { $result = $result . "1"; }
     
+    #print "$result $total\n";
+    
+    #---------
+    #print OUT "$result $total\n";
+    #OUT->autoflush(1);
+    #----------
+    
     #print 
-    foreach my $p (@phraseVector) {
-        $result = $result . " " . $p;
-    }
-    #print "$result\n";
-    print "Done.\n";
+    $totalRelatedness = $totalRelatedness / $normalizeFactor;
+
+    $result = $result . " " . $normalizedRelatedness;
     print OUT "$result\n";
     OUT->autoflush(1);
+    
+    #print "$result\n";
+    
+    print "Done.\n";
+    
+    #print OUT "$result\n";
+    #OUT->autoflush(1);
 
 }
 
@@ -230,40 +227,26 @@ sub getRelatedness
     my $word2 = $_[1];
     chomp($word1);
     chomp($word2);
-    #print $word1 . " " . $word2 . "\n";
+
+=pod    
     my $relatedness = $lesk->getRelatedness($word1, $word2);
     ($error, $errorString) = $lesk->getError();
     die "$errorString\n" if($error);
-    #print "$word1, $word2 = $relatedness\n";
+=cut
+
+#=pod
+     my $relatedness = $vector->getRelatedness($word1, $word2);
+
+  ($error, $errorString) = $vector->getError();
+
+  die "$errorString\n" if($error);    
+#=cut
+    
     return $relatedness;
 }
 
-=pod
-print "$dictionary{$_} - $_\n" for keys %dictionary;
-
-print $totalWords;
-print "\n";
-print length(%dictionary);
-print "\n";
-=cut
-#print "$dictionary{$_} - $_\n" for keys %dictionary;
-#print "total words: $totalWords\n";
-
-#print "\n";
-@a = (1, 2, 3);
-@keys = keys %dictionary;
-$size = @keys;
-
 close INFILE;
 close FILE;
+close OUT;
 
-=pod
-print "Total contexts: $totalContexts\n";
-print "Total words: $totalWords\n";
-print "total words: $size\n";
-print $size;
-print "\n";
-=cut
-
-# if (exists $strings{$string}) {
 
