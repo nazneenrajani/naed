@@ -1,0 +1,11 @@
+player
+referee
+goalkeeper
+ball
+play
+penalty
+defender
+kick
+minutes
+try
+dropped
