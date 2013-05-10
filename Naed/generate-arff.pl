@@ -1,0 +1,36 @@
+open TRAIN, "data/1-train-wekas.txt" or die $!;
+open OUT, ">1-train.arff" or die $!;
+
+my @train = <TRAIN>;
+
+
+writeArff();
+
+
+sub writeArff
+{
+    print OUT "\@relation figurative_literal\n";
+    print OUT "\@attribute 'accuracy' real\n";
+    print OUT "\@attribute 'class' {1, 0}\n";
+    print OUT "\@data\n";
+    
+    foreach my $t (@train) 
+    {
+        my @values = split(/ /, $t);
+        chomp($t);
+        my $answer = $values[0];
+        my $value = $values[1];
+        chomp($value);
+        if ($answer eq "1") #figurative
+        {
+            print OUT "$value, 1\n";
+        }
+        else #literal
+        {
+             print OUT "$value, 0\n";
+        }
+    }
+}
+
+close TRAIN;
+close OUT;

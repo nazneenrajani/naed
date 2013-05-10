@@ -1,0 +1,18 @@
+NLP
+------
+1. Abstract / concrete with only phrases
+2. Co-occurence with all phrases
+3. Parse trees for voerlapping sub trees. (maybe)
+4. one before and after the phrase feature
+5. gappy bigrams 
+
+
+
+    word = string.nextToken().toLowerCase().replaceAll("[^a-z]", "");
+ANLP
+-----
+
+
+
+
+

@@ -1,0 +1,95 @@
+Sense Vectors(lesk)
+Accuracy_Metric:    0.4393104898044986
+Accuracy:    0.4402332361516035
+Literal Precision:    0.3655913978494624
+Literal Recall:    0.4788732394366197
+Literal F1:    0.41463414634146345
+Figurative Precision:    0.5286624203821656
+Figurative Recall:    0.4129353233830846
+Figurative F1:    0.46368715083798884
+
+Accuracy_Metric:    0.4422955644313643
+Accuracy:    0.44314868804664725
+Literal Precision:    0.3675675675675676
+Literal Recall:    0.4788732394366197
+Literal F1:    0.41590214067278286
+Figurative Precision:    0.5316455696202531
+Figurative Recall:    0.417910447761194
+Figurative F1:    0.467966573816156
+
+Accuracy_Metric:    0.44528063905823
+Accuracy:    0.446064139941691
+Literal Precision:    0.3695652173913043
+Literal Recall:    0.4788732394366197
+Literal F1:    0.4171779141104294
+Figurative Precision:    0.5345911949685535
+Figurative Recall:    0.4228855721393035
+Figurative F1:    0.4722222222222222
+
+Accuracy_Metric:    0.46003783897414335
+Accuracy:    0.4606413994169096
+Literal Precision:    0.3812154696132597
+Literal Recall:    0.4859154929577465
+Literal F1:    0.4272445820433437
+Figurative Precision:    0.5493827160493827
+Figurative Recall:    0.4427860696517413
+Figurative F1:    0.4903581267217631
+
+Accuracy_Metric:    0.5615295226130653
+Accuracy:    0.5645472061657033
+Literal Precision:    0.43478260869565216
+Literal Recall:    0.45226130653266333
+Literal F1:    0.4433497536945813
+Figurative Precision:    0.6506410256410257
+Figurative Recall:    0.634375
+Figurative F1:    0.6424050632911393
+
+Accuracy_Metric:    0.5715797738693468
+Accuracy:    0.5741811175337187
+Literal Precision:    0.4481132075471698
+Literal Recall:    0.47738693467336685
+Literal F1:    0.46228710462287104
+Figurative Precision:    0.6612377850162866
+Figurative Recall:    0.634375
+Figurative F1:    0.6475279106858055
+
+BOW
+Accuracy_Metric:    0.598696608040201
+Accuracy:    0.6107899807321773
+Literal Precision:    0.47761194029850745
+Literal Recall:    0.16080402010050251
+Literal F1:    0.24060150375939848
+Figurative Precision:    0.6305309734513275
+Figurative Recall:    0.890625
+Figurative F1:    0.7383419689119172
+
+Cosine Score:
+
+Accuracy_Metric:    0.4275383645154509
+Accuracy:    0.42857142857142855
+Literal Precision:    0.35638297872340424
+Literal Recall:    0.47183098591549294
+Literal F1:    0.40606060606060607
+Figurative Precision:    0.5161290322580645
+Figurative Recall:    0.39800995024875624
+Figurative F1:    0.44943820224719105
+
+Accuracy_Metric:    0.554887534160185
+Accuracy:    0.5422740524781341
+Literal Precision:    0.10526315789473684
+Literal Recall:    0.014084507042253521
+Literal F1:    0.02484472049689441
+Figurative Precision:    0.5679012345679012
+Figurative Recall:    0.9154228855721394
+Figurative F1:    0.7009523809523809
+
+Accuracy_Metric:    0.5989353015075377
+Accuracy:    0.6146435452793835
+Literal Precision:    0.46153846153846156
+Literal Recall:    0.03015075376884422
+Literal F1:    0.056603773584905655
+Figurative Precision:    0.6185770750988142
+Figurative Recall:    0.978125
+Figurative F1:    0.757869249394673
+
+

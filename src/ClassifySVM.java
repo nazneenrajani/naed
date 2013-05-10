@@ -16,26 +16,43 @@ import de.bwaldvogel.liblinear.SolverType;
 public class ClassifySVM {
 	static int accuracy=0;
 	public static void main(String args[]) throws IOException {
-		Integer[][] wordVectors;
+		Double[][] wordVectors;
 		Integer[][] devVectors;
-		Integer[][] testVectors;
+		Double[][] testVectors;
 		/*
 		 * Call createVector for bag of words Model along with readVectors.
 		 * readVectors reads a 2d array from file as integers.
 		 */
-		wordVectors = readvectors("data/train_vector.txt");
+		//createTFIDF.make("data/unique-phrases/7-train.txt","data/label/7-label-train.txt","data/unique-phrases/7-test.txt","data/label/7-label-test.txt","data/7-train-tfidf.txt","data/7-test-tfidf.txt");
+		//createVector.make("data/unique-phrases/7-train.txt","data/label/7-label-train.txt","data/unique-phrases/7-test.txt","data/label/7-label-test.txt","data/7-train-bow.txt","data/7-test-bow.txt");
+		wordVectors = readvectors("data/bow_train.txt");
+		testVectors = readvectors("data/bow_test.txt");
 		//System.out.println(wordVectors[0].length);
 		//System.out.println(wordVectors);
-		//createVector.make("data/train.txt","data/label.txt","data/train_vector.txt");
-		//devVectors = readvectors("data/dev_vector.txt");
+		//createTFIDF.make("data/unique-phrases/1-train.txt","data/label/1-label-train.txt","data/1-train.txt");
+		//createTFIDF.make("data/unique-phrases/1-test.txt","data/label/1-label-test.txt","data/1-test.txt");
 		//createVector.make("data/dev.txt","data/label_dev.txt","data/dev_vector.txt");
-		testVectors = readvectors("data/test_vector.txt");
+		//testVectors = readvectors("data/test_vector.txt");
 		//createVector.make("data/test.txt","data/label_test.txt","data/test_vector.txt");
 		
 		Model _model;
-		
+		double[] w1 = new double[]{0.35,0.65};
+		double[] w2 = new double[]{0.49,0.51};
+		double[] w3 = new double[]{0.75,0.25};
+		double[] w4 = new double[]{0.68,0.32};
+		double[] w5 = new double[]{0.49,0.51};
+		double[] w6 = new double[]{0.3,0.7};
+		double[] w7 = new double[]{0.47,0.53};
+		double[] w8 = new double[]{0.25,0.75};
+		double[] w9 = new double[]{0.46,0.54};
+		double[] w10 = new double[]{0.75,0.25};
 		//int trainingSize = wordVectors
-		_model = svmTrain(wordVectors);
+		_model = svmTrain(wordVectors,w2);
+		double[] weight_features = _model.getFeatureWeights();
+		for(int j =0;j < weight_features.length; j++)
+			System.out.println(weight_features[j]);
+		System.out.println("*************************************");
+		System.out.println(_model.toString());
 		//accuracy = new Integer[data.size()];
 		int accu;
 		int ftp = 0;
@@ -54,6 +71,7 @@ public class ClassifySVM {
 				literal_count++;
 			else if(testVectors[j][0] == 1)
 				fig_count++;
+			//System.out.println(testVectors[j][3]);
 			accu=evaluate(testVectors[j],_model);
 			//System.out.println(accu);
 			if(accu == testVectors[j][0]){
@@ -96,39 +114,38 @@ public class ClassifySVM {
 		double ff1 = 2*fprecision*frecall/(fprecision+frecall);
 		System.out.println("Figurative F1:    "+ff1);
 		//System.out.println("Precision:    "+accuracy);
-		 
+
 	}
 	
-private static Model svmTrain(Integer [][] wordVector) {
-
+private static Model svmTrain(Double[][] wordVectors, double[] classweight) {
 	    Problem prob = new Problem();
-	    int dataCount = wordVector.length;
+	    int dataCount = wordVectors.length;
 	    prob.y = new double[dataCount];
 	    prob.l = dataCount;
-	    prob.n = wordVector[0].length-1;
+	    prob.n = wordVectors[0].length-1;
 	    prob.x = new Feature[dataCount][];     
 	    
-	    Integer[] features;
+	    Double[] features;
 	    for (int i = 0; i < dataCount; i++){            
-	    	features = wordVector[i];
-	    	//System.out.println(wordVector[i][0]);
+	    	features = wordVectors[i];
 	        prob.x[i] = new Feature[features.length-1];
 	        for (int j = 1; j < features.length; j++){
-	            FeatureNode node = new FeatureNode(j, features[j]);
+	        	//System.out.println(j + "feature");
+	        	//System.out.println(features[j]);
+	        	FeatureNode node = new FeatureNode(j, features[j]);
 	            prob.x[i][j-1] = node;
 	        }           
-	        prob.y[i] = features[0];
+	        prob.y[i] = features[0].intValue();
 	    }
 	    
-	    double [] weights = new double[2];
-	    weights[0] = 0.6;
-	    weights[1] = 0.4;
+	    double[] weights = classweight;
 	    int [] weightLabels = new int[2];
 	    weightLabels[0] = 0;
 	    weightLabels[1] = 1;
 	    SolverType solver = SolverType.L2R_LR; // -s 0
-	    double C = 1;    // cost of constraints violation
-	    double eps = 0.0001; // stopping criteria
+	    double C = 0.59;
+	    		//0.59;    // cost of constraints violation
+	    double eps = 0.000001; // stopping criteria
 	    Parameter parameter = new Parameter(solver, C, eps);
 	    parameter.setWeights(weights, weightLabels);
 	    //svm_model model = svm.svm_train(prob, param);
@@ -136,44 +153,52 @@ private static Model svmTrain(Integer [][] wordVector) {
 	    return model;
 	}
 
-public static int evaluate(Integer[] wordVectors2, Model model) 
+public static int evaluate(Double[] testVectors, Model model) 
 {
-    Feature[] nodes = new FeatureNode[wordVectors2.length-1];
-    for (int i = 1; i < wordVectors2.length; i++)
-    {
-        FeatureNode node = new FeatureNode(i, wordVectors2[i]);
+    Feature[] nodes = new FeatureNode[testVectors.length-1];
+    for (int i = 1; i < testVectors.length; i++)
+    {	//System.out.println(testVectors[i]);
+        FeatureNode node = new FeatureNode(i, testVectors[i]);
         nodes[i-1] = node;
     }
-    int totalClasses = 3;       
+    int totalClasses = 2;       
 //    int[] labels = new int[totalClasses];
 //    svm.svm_get_labels(model,labels);
     double[] prob_estimates = new double[totalClasses];
     double v = Linear.predictProbability(model, nodes,prob_estimates);
-    //System.out.println(v+"*******");
+    double val = Linear.predictValues(model, nodes,prob_estimates);
+    System.out.println(val + " This is val");
+    System.out.println(v+"*******");
     int result;
     if(v >=0.5)
     	result = 1;
     else
     	result =0;
-    System.out.println("(Actual:" + wordVectors2[0] + " Prediction:" + result + ")");            
-    if(wordVectors2[0]==result)
+    System.out.println("(Actual:" + testVectors[0] + " Prediction:" + result + ")");            
+    if(testVectors[0]==result)
     	accuracy++;
     return result;
 }
 
-public static Integer[][] readvectors(String filename){
-	Integer[][] w_vector = null;
+public static Double[][] readvectors(String filename){
+	Double[][] w_vector = null;
 	try{
 		 String[] temp;
 		  Scanner file=new Scanner (new File(filename));
 		  String[] token = file.nextLine().split(" ");
-		  w_vector = new Integer[Integer.parseInt(token[0])][Integer.parseInt(token[1])];
+		  System.out.println(filename);
+		  w_vector = new Double[Integer.parseInt(token[0])][Integer.parseInt(token[1])];
+		  //System.out.println(Integer.parseInt(token[0]));
+		  //System.out.println(Integer.parseInt(token[1]));
 		   int i =0;
 		       while(file.hasNextLine()){
+		    	  // System.out.println(i);
 		 		       String line= file.nextLine();
 		 		        temp = line.split(" ");
-	                for (int j = 0; j<temp.length; j++) {   
-	                    w_vector[i][j] = Integer.parseInt(temp[j]);
+	                for (int j = 0; j<temp.length; j++) {
+	                	//System.out.println(Double.parseDouble(temp[j]));
+	                	//System.out.println(temp[j]);
+	                    w_vector[i][j] = Double.parseDouble(temp[j]);
 	                }
 	                //System.out.println(w_vector[i][0]);	
 	                i=i+1;	                             
