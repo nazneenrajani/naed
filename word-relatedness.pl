@@ -1,6 +1,7 @@
 # ----------------------------------------------------------------------------
 # Computes the relatedness of words from a phrase to the words from the context
 # Vector similarity
+# To run: perl word-relatedness.pl sensesFile phraseSensesFile outputFile
 # ---------------------------------------------------------------------------
 
 
@@ -30,20 +31,23 @@ my $totalContexts = 0;
 
 my @vectors = (); # Array that contains vectors of each sample context
 
+my $sensesFile = $ARGV[0];
+my $phraseSensesFile = $ARGV[1];
+my $outputFile = $ARGV[2];
 
-open INFILE, "data/senses/temporal-train.txt" or die $!;
-open FILE, "data/phrase-senses/temporal-train.txt" or die $!; # File that contains the phrase and the sense of the words.
-#open INFILE, "edaena.txt" or die $!;
-#open FILE, "edaena-phrases.txt" or die $!; # File that contains the phrase and the sense of the words.
+
+open INFILE, "data/senses/$sensesFile" or die $!;
+open FILE, "data/phrase-senses/$phraseSensesFile" or die $!; # File that contains the phrase and the sense of the words.
+open OUT, ">data/basic/$outputFile";
+
 my @lines = <INFILE>;
 my @phrases = <FILE>; # Phrases or words from phrases with their sense.
-#open OUT, ">data/vectors/2-train-vectors.txt" or die $!;
-#open OUT, ">data/vectors/train-vectors.txt" or die $!;
-open OUT, ">data/basic/temporal-train.txt";
+
 
 my $phrase = "";
 my $isLiterally;
 my $count = 0;
+
 
 readDictionary(@lines); # Populate the dictionary of words present in the file.
 
@@ -152,7 +156,6 @@ sub computeRelatednessVector
     my @context;
     my $totalVectors = @phraseWords;
     
-    #print "Getting relatedness vector:\n";
     my @words = @_;
     my $size = @phraseWords;
     
@@ -172,7 +175,6 @@ sub computeRelatednessVector
         chomp($pw);
         if ($pw ne "") 
         {
-            #print $pw . "\n";
             foreach my $w (@words) 
             {
                 if ($w ne "") 
@@ -189,7 +191,6 @@ sub computeRelatednessVector
             }
         } #if 
     } # foreach
-    #my $normalizedRelatedness = ($totalRelatedness / $maxValue) / $normalizeFactor; # for lesk
     $normalizedRelatedness = $totalRelatedness / $normalizeFactor;
     print "$normalizedRelatedness\n";
     # figurative = 1
@@ -197,32 +198,18 @@ sub computeRelatednessVector
     if ($isLiterally == 1) { $result = $result . "0"; }
     else { $result = $result . "1"; }
     
-    #print "$result $total\n";
-    
-    #---------
-    #print OUT "$result $total\n";
-    #OUT->autoflush(1);
-    #----------
-    
-    #print 
     $totalRelatedness = $totalRelatedness / $normalizeFactor;
 
     $result = $result . " " . $normalizedRelatedness;
     print OUT "$result\n";
     OUT->autoflush(1);
     
-    #print "$result\n";
-    
     print "Done.\n";
-    
-    #print OUT "$result\n";
-    #OUT->autoflush(1);
 
 }
 
 sub getRelatedness
 {
-    
     my $word1 = $_[0];
     my $word2 = $_[1];
     chomp($word1);
